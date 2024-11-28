@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+/* HTML tag selector */
+body {
+    font-family: 'Arial', sans-serif;
+    background: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+}
+
+.works-add {
+    /* margin-top: 50px; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* background: #ffffff; */
+    
+}
+
+.works-add .add {
+    max-width: 650px;
+    /*margin-top: 8%;*/
+    /*width: auto !important;*/
+    width: 100%;
+    padding: 10px 10px;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 5px 25px rgba(1 1 1  / 15%);
+
+    filter: drop-shadow(0px 0px 29.5px rgba(96,233,255,0.27 ));
+    background: #ffffff;
+    /* font-family: "Tajawal"; */
+}

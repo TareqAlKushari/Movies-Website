@@ -1,0 +1,97 @@
+<?php 
+    include 'admin/connect.php'; 
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie World</title>
+    <link rel="stylesheet" href="Layout/CSS/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Movie World</h1>
+        <nav>
+            <ul class="nav-item">
+                <li><a href="#latest">Latest Movies</a></li>
+                <li><a href="#popular">Popular Movies</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+    <aside>
+        <h2>Upcoming Movies</h2>
+        <ul>
+            <li>Thunderbolts</li>
+            <li>Jurassic World Rebirth</li>
+            <li>Superman</li>
+        </ul>
+    </aside>
+    <main>
+        <section id="latest">
+            <h2 class="title-text">Latest Movies</h2>
+            <div class="content">
+                <div class="latest-card">
+                    <div class="latest-image">
+                        <img src="admin/uploads/images/img1.jpg">
+                    </div>
+                    <div class="latest-info">
+                        <strong class="latest-title">
+                            <span>THE WALKING DEAD</span>
+                            <a class="more-details" href="movie-fe.html?do=video1.mp4">Watch</a>
+                        </strong>
+                    </div>
+                </div>
+                <div class="latest-card">
+                    <div class="latest-image">
+                        <img src="admin/uploads/images/img2.jpg">
+                    </div>
+                    <div class="latest-info">
+                        <strong class="latest-title">
+                            <span>THE BLACK LIST</span>
+                            <a class="more-details" href="movie-fe.html?do=video2.mp4">Watch</a>
+                        </strong>
+                    </div>
+                </div>
+                <div class="latest-card">
+                    <div class="latest-image">
+                        <img src="admin/uploads/images/img3.jpg">
+                    </div>
+                    <div class="latest-info">
+                        <strong class="latest-title">
+                            <span>DIVERGENT</span>
+                            <a class="more-details" href="movie-fe.html?do=video3.mp4">Watch</a>
+                        </strong>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="popular">
+            <h2 class="title-text">Popular Movies</h2>
+            <table>
+                <tr>
+                    <th>Movie</th>
+                    <th>Rating</th>
+                </tr>
+                <tr>
+                    <td>THE WALKING DEAD</td>
+                    <td>4.5</td>
+                </tr>
+                <tr>
+                    <td>THE BLACK LIST</td>
+                    <td>4.7</td>
+                </tr>
+            </table>
+        </section>
+        <section id="contact">
+            <h2 class="title-text">Contact Us</h2>
+            <p>Email: contact@movieworld.com</p>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Movie World. All Rights Reserved.</p>
+    </footer>
+    <script src="Layout/JavaScript/scripts.js"></script>
+</body>
+</html>

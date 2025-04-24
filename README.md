@@ -23,7 +23,7 @@ A dynamic movie website built with HTML, CSS, JavaScript, PHP, and MySQL. This a
 
 ### Prerequisites
 
-- A web server environment (e.g., [XAMPP](https://www.apachefriends.org/), [WAMP](https://www.wampserver.com/), or [MAMP](https://www.mamp.inf/)))
+- A web server environment (e.g., [XAMPP](https://www.apachefriends.org/), [WAMP](https://www.wampserver.com/), or [MAMP](https://www.mamp.inf/))
 - PHP installed
 - MySQL database​
 

@@ -34,3 +34,56 @@ A dynamic movie website built with HTML, CSS, JavaScript, PHP, and MySQL. This a
 ```bash
 git clone https://github.com/TareqAlKushari/Movies-Website.git
 ```
+
+#### 2. Set up the database:
+
+  - Create a new MySQL database (e.g., `movies_db`).
+  - Import the SQL file located in the `SQL/` directory to set up the necessary tables.​
+
+#### 3. Configure the database connection:
+
+  - Open the PHP files (`index.php`, `movie.php`, etc.) and update the database connection parameters (`host`, `username`, `password`, `database`) to match your setup.​
+
+#### 4. Run the application:
+
+  - Place the project folder in your web server's root directory (e.g., `htdocs` for XAMPP).
+  - Start your web server and navigate to `http://localhost/Movies-Website/index.php` in your browser.
+
+## 📂 Project Structure
+
+```plaintext
+Movies-Website/
+├── SQL/
+│   └── movies_db.sql           # SQL script to set up the database
+├── admin/
+│   └── ...                     # Admin panel files for managing movies
+├── layout/
+│   └── ...                     # Common layout components (e.g., header, footer)
+├── index-fe.html               # Frontend homepage (static)
+├── movie-fe.html               # Frontend movie details page (static)
+├── index.php                   # Backend homepage (dynamic)
+├── movie.php                   # Backend movie details page (dynamic)
+├── Screenshot.png              # Screenshot of the application
+└── README.md                   # Project documentation
+```
+
+## 📸 Screenshots
+
+![Screenshot](https://github.com/TareqAlKushari/Movies-Website/raw/main/Screenshot.png)
+
+> Homepage displaying a list of movies.
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.​
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LCENSE).
+
+## 📬 Contact
+
+For any inquiries or feedback, please contact [Tareq AlKushari](https://github.com/TareqAlushari).
+
+
+> Note: This project is intended for educational purposes and may not include all security and scalability considerations for a production environment.​

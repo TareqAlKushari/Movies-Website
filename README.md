@@ -83,7 +83,7 @@ This project is open-source and available under the [MIT License](LCENSE).
 
 ## 📬 Contact
 
-For any inquiries or feedback, please contact [Tareq AlKushari]([https://github.com/TareqAlushari](https://github.com/TareqAlKushari)).
+For any inquiries or feedback, please contact [Tareq AlKushari](https://github.com/TareqAlKushari).
 
 
 > Note: This project is intended for educational purposes and may not include all security and scalability considerations for a production environment.​

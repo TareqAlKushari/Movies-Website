@@ -29,25 +29,25 @@ A dynamic movie website built with HTML, CSS, JavaScript, PHP, and MySQL. This a
 
 ### Installation
 
-#### 1. Clone the repository:
-
-```bash
-git clone https://github.com/TareqAlKushari/Movies-Website.git
-```
-
-#### 2. Set up the database:
-
-  - Create a new MySQL database (e.g., `movies_db`).
-  - Import the SQL file located in the `SQL/` directory to set up the necessary tables.​
-
-#### 3. Configure the database connection:
-
-  - Open the PHP files (`index.php`, `movie.php`, etc.) and update the database connection parameters (`host`, `username`, `password`, `database`) to match your setup.​
-
-#### 4. Run the application:
-
-  - Place the project folder in your web server's root directory (e.g., `htdocs` for XAMPP).
-  - Start your web server and navigate to `http://localhost/Movies-Website/index.php` in your browser.
+  #### 1. Clone the repository:
+  
+  ```bash
+  git clone https://github.com/TareqAlKushari/Movies-Website.git
+  ```
+  
+  #### 2. Set up the database:
+  
+    - Create a new MySQL database (e.g., `movies_db`).
+    - Import the SQL file located in the `SQL/` directory to set up the necessary tables.​
+  
+  #### 3. Configure the database connection:
+  
+    - Open the PHP files (`index.php`, `movie.php`, etc.) and update the database connection parameters (`host`, `username`, `password`, `database`) to match your setup.​
+  
+  #### 4. Run the application:
+  
+    - Place the project folder in your web server's root directory (e.g., `htdocs` for XAMPP).
+    - Start your web server and navigate to `http://localhost/Movies-Website/index.php` in your browser.
 
 ## 📂 Project Structure
 

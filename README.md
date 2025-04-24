@@ -1,8 +1,3 @@
-# Movies-Website
-Movies website using HTML, CSS, JavaScript, PHP and MySQL to view, add and control movies.
-
-![Screenshot of the website.](/Screenshot.png)
-
 # 🎬 Movies Website
 
 A dynamic movie website built with HTML, CSS, JavaScript, PHP, and MySQL. This application allows users to browse, add, and manage a collection of movies through an intuitive interface.​

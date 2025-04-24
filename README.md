@@ -79,11 +79,11 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 
 ## 📄 License
 
-This project is open-source and available under the [MIT License](LCENSE).
+This project is open-source and available under the MIT License.
 
 ## 📬 Contact
 
-For any inquiries or feedback, please contact [Tareq AlKushari](https://github.com/TareqAlKushari).
+For any inquiries or feedback, please contact [Tareq Al Kushari](https://github.com/TareqAlKushari).
 
 
 > Note: This project is intended for educational purposes and may not include all security and scalability considerations for a production environment.​

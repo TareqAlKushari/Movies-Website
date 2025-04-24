@@ -7,7 +7,7 @@ Movies website using HTML, CSS, JavaScript, PHP and MySQL to view, add and contr
 
 A dynamic movie website built with HTML, CSS, JavaScript, PHP, and MySQL. This application allows users to browse, add, and manage a collection of movies through an intuitive interface.​
 
-![Screenshot of the website.](/Screenshot.png)
+![Screenshot](https://github.com/TareqAlKushari/Movies-Website/raw/main/Screenshot.png)
 
 ---
 
@@ -28,7 +28,7 @@ A dynamic movie website built with HTML, CSS, JavaScript, PHP, and MySQL. This a
 
 ### Prerequisites
 
-- A web server environment (e.g., XAMPP, WAMP, or MAMP)
+- A web server environment (e.g., [XAMPP](https://www.apachefriends.org/), [WAMP](https://www.wampserver.com/), or [MAMP](https://www.mamp.inf/)))
 - PHP installed
 - MySQL database​
 

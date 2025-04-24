@@ -2,3 +2,40 @@
 Movies website using HTML, CSS, JavaScript, PHP and MySQL to view, add and control movies.
 
 ![Screenshot of the website.](/Screenshot.png)
+
+# 🎬 Movies Website
+
+A dynamic movie website built with HTML, CSS, JavaScript, PHP, and MySQL. This application allows users to browse, add, and manage a collection of movies through an intuitive interface.​
+
+![Screenshot of the website.](/Screenshot.png)
+
+---
+
+## 📌 Features
+
+- Display a list of movies with details such as title, description, and poster.
+- Admin panel to add, edit, and delete movie entries.
+- Responsive design for optimal viewing on various devices.
+- Separation of frontend (index-fe.html, movie-fe.html) and backend (index.php, movie.php) components.​
+
+## 🛠️ Technologies Used
+
+- **Frontend:** HTML5, CSS3, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL​
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- A web server environment (e.g., XAMPP, WAMP, or MAMP)
+- PHP installed
+- MySQL database​
+
+### Installation
+
+#### 1. Clone the repository:
+
+```bash
+git clone https://github.com/TareqAlKushari/Movies-Website.git
+```

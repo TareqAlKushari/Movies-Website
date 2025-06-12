@@ -5,7 +5,6 @@ A dynamic movie website built with HTML, CSS, JavaScript, PHP, and MySQL. This a
 ## 📸 Demo
 
 ![Screenshot](https://github.com/TareqAlKushari/Movies-Website/raw/main/Screenshot.png)
-![Screenshot](https://github.com/TareqAlKushari/Movies-Website/raw/main/Screenshot.png)
 > Homepage displaying a list of movies.
 
 Website is live at https://tareqalkushari.github.io/Movies-Website/

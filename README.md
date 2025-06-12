@@ -87,3 +87,7 @@ For any inquiries or feedback, please contact [Tareq Al Kushari](https://github.
 
 
 > Note: This project is intended for educational purposes and may not include all security and scalability considerations for a production environment.​
+
+## Author
+
+Created by [@TareqAlKushari](https://github.com/TareqAlKushari).

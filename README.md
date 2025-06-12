@@ -2,8 +2,13 @@
 
 A dynamic movie website built with HTML, CSS, JavaScript, PHP, and MySQL. This application allows users to browse, add, and manage a collection of movies through an intuitive interface.​
 
-![Screenshot](https://github.com/TareqAlKushari/Movies-Website/raw/main/Screenshot.png)
+## 📸 Demo
 
+![Screenshot](https://github.com/TareqAlKushari/Movies-Website/raw/main/Screenshot.png)
+![Screenshot](https://github.com/TareqAlKushari/Movies-Website/raw/main/Screenshot.png)
+> Homepage displaying a list of movies.
+
+Website is live at https://tareqalkushari.github.io/Movies-Website/
 ---
 
 ## 📌 Features
@@ -66,12 +71,6 @@ Movies-Website/
 ├── Screenshot.png              # Screenshot of the application
 └── README.md                   # Project documentation
 ```
-
-## 📸 Screenshots
-
-![Screenshot](https://github.com/TareqAlKushari/Movies-Website/raw/main/Screenshot.png)
-
-> Homepage displaying a list of movies.
 
 ## 🤝 Contributing
 

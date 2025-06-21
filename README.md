@@ -75,17 +75,20 @@ Movies-Website/
 
 Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.​
 
-## 📄 License
-
-This project is open-source and available under the MIT License.
-
 ## 📬 Contact
 
-For any inquiries or feedback, please contact [Tareq Al Kushari](https://github.com/TareqAlKushari).
-
+For any inquiries or feedback, please contact [Tareq Al-Kushari](https://github.com/TareqAlKushari).
 
 > Note: This project is intended for educational purposes and may not include all security and scalability considerations for a production environment.​
 
-## Author
+## Author 🙋‍♂️
 
-Created by [@TareqAlKushari](https://github.com/TareqAlKushari).
+**Tareq Al-Kushari**   [GitHub](https://github.com/TareqAlKushari) • [LinkedIn](https://www.linkedin.com/) • [Facebook](https://www.facebook.com/profile.php?id=61562736475116&mibextid=ZbWKwL) • [Instagram](https://www.instagram.com/tareq.al.kushari?igsh=MTBhZjRuYnFoMWw1YQ==) • [X](https://x.com/Al_Kushari?t=gU61bcmlDbtf3KV4kqGULA&s=09) • [Email](mailto:tareq.al.kushari@gmail.com) • [Portfolio Website](#)
+
+## License 📜
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+> If you found this helpful, don't forget to **star** the repo and share it with others! ⭐
